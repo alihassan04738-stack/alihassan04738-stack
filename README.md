@@ -4,7 +4,7 @@
      Copy-paste friendly ✅
 ========================= -->
 
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Ali Hassa</h1>
 <h3 align="center">AI Student | Machine Learning | Deep Learning | NLP | Computer Vision</h3>
 
 <p align="center">
@@ -60,17 +60,14 @@
 ### 1) 🏦 Loan Default Prediction (Machine Learning)
 **Goal:** Predict if a customer will default using supervised learning.  
 **Tech:** Python, Pandas, Scikit-learn  
-✅ *Add your repo link here:* `https://github.com/YOUR_USERNAME/loan-default-prediction`
 
 ### 2) 🧠 Sentiment Analysis (NLP)
 **Goal:** Classify text as Positive/Negative/Neutral.  
 **Tech:** TF-IDF, Logistic Regression / LSTM  
-✅ Repo: `https://github.com/YOUR_USERNAME/sentiment-analysis-nlp`
 
 ### 3) 🖼️ Image Classifier (Computer Vision)
 **Goal:** Classify images using CNN.  
 **Tech:** PyTorch/TensorFlow, CNN  
-✅ Repo: `https://github.com/YOUR_USERNAME/cnn-image-classifier`
 
 ---
 
