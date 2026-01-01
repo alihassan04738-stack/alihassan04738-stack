@@ -4,7 +4,7 @@
      Copy-paste friendly ✅
 ========================= -->
 
-<h1 align="center">Hi 👋, I'm Ali Hassa</h1>
+<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
 <h3 align="center">AI Student | Machine Learning | Deep Learning | NLP | Computer Vision</h3>
 
 <p align="center">
@@ -107,9 +107,8 @@
 
 ## 📫 Contact
 
-- Email: **YOUR_EMAIL@gmail.com**
-- LinkedIn: **https://linkedin.com/in/YOUR_LINKEDIN/**
-- Portfolio: **https://YOUR_PORTFOLIO_LINK.com**
+- Email: **alihassan04738@gmail.com**
+
 
 ---
 
